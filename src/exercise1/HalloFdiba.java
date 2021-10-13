@@ -1,9 +1,9 @@
 package exercise1;
 
-public class HalloFDIBA {
+public class HalloFdiba {
 
     public static void main(String[] args) {
-        System.out.println("Hallo FDIBA!");
+        System.out.println("HalloFdiba");
     }
 
 }
